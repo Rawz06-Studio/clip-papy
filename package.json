@@ -21,7 +21,7 @@
     "dotenv": "^16.6.1",
     "express": "^4.22.2",
     "fast-levenshtein": "^3.0.0",
-    "node-cron": "^3.0.3",
+    "node-cron": "^4.6.0",
     "node-fetch": "^3.3.2"
   },
   "engines": {
