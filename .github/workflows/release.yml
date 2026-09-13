@@ -22,5 +22,5 @@ jobs:
       packages: write   # Nécessaire pour Docker/Maven/NPM
     with:
       image_name: papy-clip
-      dokploy_app_id: VwtFFJoX1ImMgchyzItTg
+      dokploy_app_id: CF8hkGD8L8pPaJ9cQUJM4
     secrets: inherit
